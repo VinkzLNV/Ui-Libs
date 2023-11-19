@@ -95,6 +95,6 @@ Showcase: https://youtu.be/ZeOFJvqhyMs
 
 ![image](https://user-images.githubusercontent.com/52291809/208855109-4c21d78c-100b-43c2-9f42-dcecb781f2cd.png)
 
-# [kwargs UI Library]([https://github.com/x2Swiftz/UI-Library/blob/main/Libraries/Pepsi%20-%20Example.lua](https://raw.githubusercontent.com/7yhx/kwargs_Ui_Library/main/Example.lua))
+# [kwargs UI Library](https://raw.githubusercontent.com/7yhx/kwargs_Ui_Library/main/Example.lua))
 
 ![image](https://cdn.discordapp.com/attachments/985550775306555452/1122175608600924281/image.png)
