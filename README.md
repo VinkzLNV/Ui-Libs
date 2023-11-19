@@ -1,9 +1,6 @@
 # UI-Library Storage
 
-ผมเห็นว่าหลายๆ Hub ใช้แต่ UI เดิมๆไม่ก็ซ้ำๆกันเยอะจึงนำมาแจกให้หลายๆท่านได้ลองใช้ UI พวกนี้กัน
-ของฟรีทั้งหมด บางอย่างเจ้าของ UI อยากแจกเอง ไม่ก็ Source Code หลุดแล้วมีคน Save File ไว้
-
-// มีไฟล์ตัวอย่าง "Example.lua" ให้ทุก UI สามารถศึกษาได้ด้วยตัวเอง 
+All The Best Uis Here
 
 # [Pepsi UI](https://github.com/x2Swiftz/UI-Library/blob/main/Libraries/Pepsi%20-%20Example.lua)
 
